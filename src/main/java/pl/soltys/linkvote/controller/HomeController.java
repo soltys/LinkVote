@@ -1,4 +1,4 @@
-package pl.soltys.linkvote;
+package pl.soltys.linkvote.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
