@@ -1,3 +1,11 @@
+##########
+## Spring#
+##########
+
+target/*
+
+.springBeans
+.springWebflow
 #################
 ## Eclipse
 #################
